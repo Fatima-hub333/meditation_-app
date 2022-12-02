@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/BBQSplash-blueviolet)
+![](https://img.shields.io/badge/MeditationApp-blueviolet)
 
 # Meditation App
 It'a meditation app where user can listen mind relaxing music and enjoy it. This app is built in HTML, CSS & Vanilla JavaScript
 
-![screenshot](images/app-preview.png)
+![screenshot](app-preview.png)
 
 ## [LiveDemo] 
 (https://meditation-app-liard.vercel.app/)
